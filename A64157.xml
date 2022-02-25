@@ -1,0 +1,1181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe relation of the idiotismes and absurdities of Miles Corbet, Esquire, councellor at law, reorder [sic] and burgesse for Great Yarmouth by Antho. Roily ...</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64157</idno>
+            <idno type="STC">Wing T434A</idno>
+            <idno type="STC">ESTC R37874</idno>
+            <idno type="EEBO-CITATION">17150604</idno>
+            <idno type="OCLC">ocm 17150604</idno>
+            <idno type="VID">105898</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64157)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105898)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1160:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe relation of the idiotismes and absurdities of Miles Corbet, Esquire, councellor at law, reorder [sic] and burgesse for Great Yarmouth by Antho. Roily ...</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Antho. Roily is pseudonym of John Taylor (1580-1653). Cf. LCNA.</note>
+                  <note>In verse.</note>
+                  <note>Imperfect: print show-through with loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Corbet, Miles, d. 1662 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105898:1"/>
+            <pb facs="tcp:105898:1" rendition="simple:additions"/>
+            <p>A BRIEFE RELATION OF THE GLEANINGS OF THE IDIOTISMES AND ABSURDITIES OF MILES CORBET Eſquire, Councellor at Law, Reorder and Burgeſſe for Great <hi>Yarmouth.</hi>
+            </p>
+            <p>By ANTHO: ROILY, <hi>Student in the Mathemagicks.</hi>
+            </p>
+            <p>Printed in the Yeare, 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:105898:2"/>
+            <pb n="1" facs="tcp:105898:2"/>
+            <head>A briefe Relation of the Gleanings of the Idiotiſmes and Abſurdities of MILES CORBET Eſquire, &amp;c.</head>
+            <lg>
+               <l>
+                  <hi>
+                     <seg rend="decorInit">G</seg>Ods, Goddeſſes,</hi> or <hi>Muſes,</hi> I invoke not,</l>
+               <l>Or (in this Caſe) to great <hi>Apollo</hi> ſpoke not:</l>
+               <l>Nor <hi>Joves</hi> ſwift <hi>Thighborne Son,</hi> wing'd <hi>Mercu<g ref="char:EOLhyphen"/>ry</hi>
+               </l>
+               <l>Shall (in theſe following Lines) my Muſe ſupply,</l>
+               <l>The man I meane to write of is a Theame</l>
+               <l>That flowes upon me, like a flowing ſtreame.</l>
+               <l>Not <hi>Thames</hi> in <hi>England,</hi> or faire
+<note n="a" place="margin">
+                     <hi>Seine</hi> a Ri<g ref="char:EOLhyphen"/>ver in <hi>France'</hi> which runnes at <hi>Paris,</hi> as <hi>Thames</hi> doth at <hi>London.</hi>
+                  </note> 
+                  <hi>Seine</hi> in <hi>France</hi>
+               </l>
+               <l>Were ever greater Flouds of Ignorance.</l>
+               <l>I write of wit and wiſedomes Inundation</l>
+               <l>Of high and mighty Policies Relation</l>
+               <l>Of things that only are for a Preciſe man</l>
+               <l>And farre above the reach of any wiſe man,</l>
+               <l>Of one that is in ſhape an
+<note n="b" place="margin">M. <hi>Corbet</hi> is as black with<g ref="char:EOLhyphen"/>out as within.</note> 
+                  <hi>Ethiopian,</hi>
+               </l>
+               <l>And in Religion a profound
+<note n="c" place="margin">Of no Reli<g ref="char:EOLhyphen"/>gion.</note> 
+                  <hi>
+                     <g ref="char:V">Ʋ</g>topian,</hi>
+               </l>
+               <l>Skill'd in the learned Lawes with ſuch encreace,</l>
+               <l>That he'l deſerve a fee to hold his
+<note n="d" place="margin">Hee can ſpeak ſo much to the purpoſe that he doth moſt good, when he ſaies nothing.</note> peace.</l>
+               <l>His heart is fir'd with zeale, and with a warme mouth</l>
+               <l>He pleades, as grand Recorder of great <hi>Yarmouth.</hi>
+               </l>
+               <l>He's a moſt ſtiffe <hi>Cathedrall</hi> hater, yet</l>
+               <l>The State to make him
+<note n="e" place="margin">Cathedra, quaſi Chaire.</note> Chaire-man held it fit,</l>
+               <l>Poore Miniſters (whom he deemes ſcandalous)</l>
+               <l>His power hath made 'em, not worth ſcant a lowſe,</l>
+               <l>He's <hi>Chair-man</hi> alſo, for th' Examinations</l>
+               <l>And hath a Boſome full of Reſervations,</l>
+               <l>He's <hi>Chair-man</hi> for the <hi>Sope,</hi> to keep you cleanly,</l>
+               <l>As farre as is from <hi>Edinburgh</hi> to <hi>Henly,</hi>
+               </l>
+               <pb n="2" facs="tcp:105898:3"/>
+               <l>And by the Parliaments moſt Grave direction</l>
+               <l>He ſwayes <hi>Newcaſtle-Coles</hi> by his
+<note n="f" place="margin">A very ſui<g ref="char:EOLhyphen"/>table dignity.</note> Complexion.</l>
+               <l>Hee's <hi>Chaire-man</hi> for the <hi>Salt,</hi> (a place moſt ſavery,)</l>
+               <l>And with it feaſons all the Kingdomes
+<note n="g" place="margin">Or the Re<g ref="char:EOLhyphen"/>bels knavery.</note> ſlavery,</l>
+               <l>Hee's <hi>Chaire-man</hi> alſo <hi>Generall</hi> and <hi>Particular</hi>
+               </l>
+               <l>Over all Cauſes, in theſe times <hi>Canicular;</hi>
+               </l>
+               <l>Above all perſons both Divine and Secular</l>
+               <l>Within the bounds of <hi>Brittaines</hi> ſquare Orbicular.</l>
+               <l>And though Dame Nature made him not a faire man,</l>
+               <l>Yet Art made him an
+<note n="h" place="margin">A medler in every Com<g ref="char:EOLhyphen"/>mittee.</note> univerſall <hi>Chair-man.</hi>
+               </l>
+               <l>Wit, Wealth, or Fortune, made him a Recorder,</l>
+               <l>And Knight inviſible of the forked Order,</l>
+               <l>Which is an honour
+<note n="i" place="margin">But <hi>Vulcan</hi> was not dubd by a Juſtices Clark.</note> 
+                  <hi>Vulcan</hi> had from <hi>Venus,</hi>
+               </l>
+               <l>From which degree our fates will hardly wean us.</l>
+               <l>His voyce more greivous then a Fevor Tertian,</l>
+               <l>Irrevocable, like the <hi>Medes</hi> or <hi>Perſian,</hi>
+               </l>
+               <l>And (Error proofe) he can deny or grant,</l>
+               <l>Like
+<note n="k" place="margin">Three Jud<g ref="char:EOLhyphen"/>ges in hell.</note> 
+                  <hi>Minos, Eacus,</hi> or. <hi>Rahdamant,</hi>
+               </l>
+               <l>And they are all three Maiſters of the Chaire</l>
+               <l>To whoſe poſſeſſions he's th' adopted heire,</l>
+               <l>For he's the <hi>Cornucopia,</hi> that abounded</l>
+               <l>With all the vertues that adhornes a <hi>Round-head.</hi>
+               </l>
+               <l>He hath full power, Eaſt, Weſt, &amp; North &amp; South,</l>
+               <l>To make Malignants, even by word of mouth;</l>
+               <l>Faults, he can make to be no faults at all,</l>
+               <l>And
+<note n="l" place="margin">He hath the art of multi<g ref="char:EOLhyphen"/>plication, and Subſtraction.</note> mountain crimes, can turn to mole-hils ſmall</l>
+               <l>He can make guiltleſſe guilty, guilty guiltleſſe,</l>
+               <l>As ſoon as Cutlers can make ſwords be hiltleſſe.</l>
+               <l>This is the <hi>Miles,</hi> whome millions more of miles,</l>
+               <l>Cannot o're reach in ſtratagems and wiles,</l>
+               <l>This is the <hi>Miles,</hi> worth more, by more then halfe</l>
+               <l>Then are the Famous miles of <hi>Walthams Calfe;</hi>
+               </l>
+               <l>And though nine miles, that calfe did travell then</l>
+               <l>To ſuck a <hi>Bull,</hi> yet dry came home agen,</l>
+               <l>Yet hath our mighty <hi>Miles</hi> ſuch happy luck.</l>
+               <l>He's <hi>Miles</hi> and <hi>Taurus</hi> both for <hi>Calves</hi> to ſuck.</l>
+               <pb n="3" facs="tcp:105898:3"/>
+               <l>I'le not preſume to call him
+<note n="m" place="margin">His Admi<g ref="char:EOLhyphen"/>ring audience, are the Calves that do ſuck the Bull of his wiſedome.</note> 
+                  <hi>Bull</hi> by Patrimony,</l>
+               <l>For it may be he got that ſtile by Matrimony,</l>
+               <l>And (in Hay harveſt) he's ſo ſtout and ſtrong</l>
+               <l>To make hay with his head, without a Prong.</l>
+               <l>But leaving theſe things as a diſtin'd Omen</l>
+               <l>For him, or thee, or me, for friend, or foe-men,</l>
+               <l>Happy is he that's paſt it, for there be</l>
+               <l>To many in that
+<note n="n" place="margin">It is a catch<g ref="char:EOLhyphen"/>ing diſeaſe.</note> caſe, are ſcarce ſhot free.</l>
+               <l>Now muſt I write of ſomething accidentall,</l>
+               <l>Wiſe grave abſurdities, high Parliamentall:</l>
+               <l>And therefore (Readers) with advice take heeding</l>
+               <l>Whil'ſt I adde Vice, to Edifye your reading.</l>
+               <l>But I muſt now retract my lines before,</l>
+               <l>No Goddeſſe, God, or Muſes to implore:</l>
+               <l>Although I crave not theſe, I humbly crave</l>
+               <l>That I <hi>Will Summers</hi> learned Muſe may have,</l>
+               <l>Or <hi>Patch,</hi> the <hi>Cardinalls Stultus,</hi> or <hi>Tom Derry,</hi>
+               </l>
+               <l>Or <hi>Muckle John,</hi> whoſe talke a man would weary,</l>
+               <l>Or <hi>Archy</hi> (fooliſh Knaveries precious Iewell)</l>
+               <l>Let all their wiſedomes to my Muſe bring fewell,</l>
+               <l>Let all theſe ayde me, for I have a talke</l>
+               <l>That rumbles in my verſes like a Laike.</l>
+               <l>Theſe Muſes, mindes and ſpirits, if they infuſe me,</l>
+               <l>If I do erre all wiſemen will excuſe me,</l>
+               <l>For ſure, he is a man of ſmall Engine</l>
+               <l>That ſtoopes ſo low to ſet his wit to mine;</l>
+               <l>I doe proteſt my Satyres Chapps are muzled,</l>
+               <l>And my Invention ne're ſo much was puzled,</l>
+               <l>For <hi>Corbet</hi> and his Clarke of Peace, and <hi>Quorum,</hi>
+               </l>
+               <l>A
+<note n="o" place="margin">Firſt Idiotiſ. a dogg bound over to the Quarter ſeſſi<g ref="char:EOLhyphen"/>ons.</note> Butcher humbly made complaint before 'um,</l>
+               <l>That Maiſter
+<note n="p" place="margin">A Phiſition in <hi>Yormouth,</hi> &amp; his diligent dogge was a Spannell.</note> 
+                  <hi>Colmans</hi> dogge had ſuch deceit</l>
+               <l>That if his Maiſter toucht a peece of meat</l>
+               <l>The Dogge ſo diligently ey'd and watch'd</l>
+               <l>That uneſpy'd, ſtraight the meat he catch'd.</l>
+               <l>Grave <hi>Corbet</hi> hearing both ſides, right and left,</l>
+               <l>Said, <hi>that by Law all Fellony is thoft,</hi>
+               </l>
+               <pb n="4" facs="tcp:105898:4"/>
+               <l>
+                  <hi>And therefore that falſe Dogge for his tranſgreſſion</hi>
+               </l>
+               <l>
+                  <hi>I'le binde him over to the Quarter-Seſſion.</hi>
+               </l>
+               <l>In
+<note n="q" place="margin">2 Idiotiſme. that to con<g ref="char:EOLhyphen"/>feſſe and deny, is all one.</note> 
+                  <hi>Yarmonth</hi> there are little Lanes, cal'd Rows</l>
+               <l>Nere which the tyde continuall Ebbes and flows;</l>
+               <l>Which places are oftnoyd, with fiſhes Garbadge,</l>
+               <l>With dyrt and filthy ſoyle of weeds &amp; Herbadge;</l>
+               <l>Ther's a Decree, that who ſo ſoules the ſtreet</l>
+               <l>(Or Row) and doth not keep it cleane and ſweet,</l>
+               <l>Are at the Seſſions doom'd, and fin'd by Law</l>
+               <l>Whereby Delinquents much are kept in awe.</l>
+               <l>
+                  <hi>Miles Corbet,</hi> whoſe grave wiſedome ſought to prune all,</l>
+               <l>(Mounted in ſtate upon his high Tribunall)</l>
+               <l>One of the Dwellers faulty was accuſed</l>
+               <l>That he with filth and ſoyle the Row abuſed</l>
+               <l>Th' accuſed Party would excuſe the deed</l>
+               <l>(But no man to excuſings taking heed)</l>
+               <l>To whom the wiſe Recorder did reply,</l>
+               <l>Friend, here's no place for you to prate and ly,</l>
+               <l>Confeſſion may perhaps ſome way redreſſe it,</l>
+               <l>And Sir, you muſt acknowledge or confeſſe it.</l>
+               <l>To which an
+<note n="r" place="margin">M. <hi>Anthony Speck.</hi>
+                  </note> 
+                  <hi>Alderman</hi> did anſwer make;</l>
+               <l>Sir, I ſuppoſe your wiſedome doth miſtake:</l>
+               <l>You are beſides the matter quite and cleane,</l>
+               <l>
+                  <hi>Acknowledge</hi> or <hi>deny</hi> (I thinke) you meane,</l>
+               <l>Good Sir, quoth <hi>Corbet,</hi> pray let me alone,</l>
+               <l>Is not t' <hi>acknowledge</hi> and
+<note n="ſ" place="margin">Acknow<g ref="char:EOLhyphen"/>ledge and de<g ref="char:EOLhyphen"/>ny, and deny and acknow<g ref="char:EOLhyphen"/>ledge, doe a<g ref="char:EOLhyphen"/>gree like Ling &amp; Cabbadge.</note> 
+                  <hi>deny</hi> all one?</l>
+               <l>A Crew of tatterd
+<note n="t" place="margin">Idiotiſme. <hi>Corbet</hi> bound Beggars over to the Seſſi<g ref="char:EOLhyphen"/>ons for <hi>Gyp<g ref="char:EOLhyphen"/>fiot.</hi>
+                  </note> 
+                  <hi>Beggars,</hi> on the way,</l>
+               <l>
+                  <hi>Miles Corbets</hi> ſwarthy worſhip humbly pray</l>
+               <l>That he his ſleeping bounty would awake</l>
+               <l>And give 'um ſomething for <hi>Chriſt Jeſus ſake:</hi>
+               </l>
+               <l>He being charitable (though no Lover</l>
+               <l>Of poore Folke) did for <hi>Gypſies</hi> bind them over.</l>
+               <l>The Beggars all appear'd unto the ſute,</l>
+               <l>But no man did againſt them proſecute,</l>
+               <l>And being then before the judge to anſwer,</l>
+               <l>Grim <hi>Corbet,</hi> (with a viſage ſterne as <hi>Cancer</hi>)</l>
+               <pb n="5" facs="tcp:105898:4"/>
+               <l>Accus'd them all as <hi>Gypſies,</hi> the Iudge ſaid,</l>
+               <l>Though they are poore and Roguiſhly arraid;</l>
+               <l>I doe demand, who proſecutes them here,</l>
+               <l>They all reply'd, <hi>'Tis that black Juſtice there;</hi>
+               </l>
+               <l>And we beſeech your Lordſhip judge, and ſee</l>
+               <l>Who looks moſt like a <hi>Gypſie,</hi> he, or we.</l>
+               <l>A Fellow late, whoſe honeſty was little,</l>
+               <l>Joyn'd
+<note n="u" place="margin">3. Foolery. Maſter <hi>Corbet</hi> vvould teach a Knave to get a Baſtard.</note> Giblets with a wench unchaſt and brittle.</l>
+               <l>It fell ſo in, and out, her wombe did ſwell,</l>
+               <l>Her bigneſſe, her diſeaſe did plainly tell;</l>
+               <l>The buſineſſe of the Fellow and the Wench,</l>
+               <l>Was brought before <hi>Miles Corbet</hi> on the Bench,</l>
+               <l>Who being one that Leachery did hate,</l>
+               <l>Did the <hi>Delinquent,</hi> chide, revile, and Rate.</l>
+               <l>Quoth <hi>Miles,</hi> this Womans Belly doth appeach you,</l>
+               <l>And how to get a Baſtard I will teach you,</l>
+               <l>I'le teach you get a Baſtard: Sirha, I</l>
+               <l>Will make you think on't Sitha, 'till you dye.</l>
+               <l>With that a man that ſate him neare unto,</l>
+               <l>Said Sir, I thinke 'tis more then you can doe;</l>
+               <l>You cannot teach him, for his skill is great,</l>
+               <l>The Spirituall Court knowes twice h' has done that feat.</l>
+               <l>All's one, quoth <hi>Corbet,</hi> tell not me what's what,</l>
+               <l>I'le teach him get a Baſtard for all that.</l>
+               <l>In <hi>Yarmouth</hi> Towne, one Widdow
+<note n="x" place="margin">4. Idiotiſme. To ſue a man for ſeeking his owne goods, that were ſtol<g ref="char:EOLhyphen"/>len from him.</note> 
+                  <hi>Stigold</hi> was,</l>
+               <l>That kept a ſhop of <hi>Coppar, Tin,</hi> and <hi>Braſſe,</hi>
+               </l>
+               <l>The Woman in her ſhop did buy and ſell,</l>
+               <l>And drove a good trade; but marke what befell,</l>
+               <l>She trading thus in many a ſort of Mettle,</l>
+               <l>A Theefe ſold her a misbegotten <hi>Kettle.</hi>
+               </l>
+               <l>Quick ſearch was made, the <hi>Kettle</hi> being ſound,</l>
+               <l>The Buyer by Grim <hi>Corbet</hi> ore was bound</l>
+               <l>To anſwer it at <hi>Yarmouth Seſſions,</hi> where</l>
+               <l>Her
+<note n="y" place="margin">Her ſhop was lawfull to buy &amp; ſell in; and the ovvner found it on her ſtall.</note> ſelfe for buying it did fully cleare.</l>
+               <l>The <hi>Black Recorder</hi> gave her
+<note n="z" place="margin">This was fooliſh Kna<g ref="char:EOLhyphen"/>viſh Councel, for it coſt the poor woman neare 7 l. of which Maſter <hi>Corbet</hi> had a large propor<g ref="char:EOLhyphen"/>tion for Facs.</note> Councell then,</l>
+               <l>She with the accuſer to have a bout agen</l>
+               <pb n="6" facs="tcp:105898:5"/>
+               <l>At <hi>Norwich</hi> City, where at the Aſſize</l>
+               <l>The buſineſſe micht be try'd by <hi>Niſi prize;</hi>
+               </l>
+               <l>There the grave Iudge did of the Woman aske,</l>
+               <l>Who councell'd her to ſuch a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>idle taske,</l>
+               <l>A lawleſſe ſuit againſt the
+<note n="a" place="margin">There was no Law for the Woman to ſue the man, for the man fought but his owne goods.</note> man to bring</l>
+               <l>His accuſation being for the King.</l>
+               <l>She ſaid that Maſter <hi>Corbet</hi> bade her to doe it,</l>
+               <l>Or elſe ſhe hever had had mind unto it;</l>
+               <l>The Iudge eſpy'd one Maſter <hi>William Gray,</hi>
+               </l>
+               <l>And ſaid to him I pray you goe your way:</l>
+               <l>Tell <hi>Corbet</hi> from me, that <hi>he is a Foole,</hi>
+               </l>
+               <l>And (for more skill in Law) may goe to ſchoole.</l>
+               <l>Strait Maſter
+<note n="b" place="margin">M. <hi>Gray</hi> did not doe his meſſage at <hi>Norwich,</hi> but at <hi>Yarmouth,</hi> at the Bayliffs houſe, where <hi>Corbet</hi> din'd.</note> 
+                  <hi>Gray</hi> went, lought, and chanc'd to find</l>
+               <l>The man 'mongſt Gentlemen, whom halfe had din'd,</l>
+               <l>Whereas he told him, that without delay</l>
+               <l>He had a meſſage from the Iudge to ſay.</l>
+               <l>What is it ſecret, he reply'd agen,</l>
+               <l>
+                  <hi>Gray</hi> anſwer'd nay, <hi>Be't knowne unto all men,</hi>
+               </l>
+               <l>My Lord (the Iudge) commands me tell you this,</l>
+               <l>
+                  <hi>You are a Foole,</hi> and that mine errand is.</l>
+               <l>The Gueſts round, (inwardly) did ſmile and flout,</l>
+               <l>(For they all lov'd him like the Poxe or Gout)</l>
+               <l>And angry <hi>Miles</hi> ſaid <hi>Gray,</hi> I'le thus conclude,</l>
+               <l>Becauſe you brought to me this meſſage rude,</l>
+               <l>Expect from me, no further grace or favour</l>
+               <l>I'le bind you over to the good Behaviour.</l>
+               <l>For that (quoth M<hi rend="sup">r</hi> 
+                  <hi>Gray</hi>) I doe not care,</l>
+               <l>You may doe if you will, doe if you dare.</l>
+               <l>One M<hi rend="sup">r</hi>
+                  <note n="c" place="margin">5. Idiotiſme. To ſtudy, if monday were monday, or not.</note> 
+                  <hi>Staines</hi> (Aturney by profeſſion)</l>
+               <l>In Chriſtmas time, ask'd when was <hi>Yarmouth</hi> Seſſion:</l>
+               <l>Wiſe <hi>Corbet,</hi> on his Thumbs ends took adviſing,</l>
+               <l>And all his five wits wiſely Catechiſing;</l>
+               <l>He ſaid, if Plowlick
+<note n="d" place="margin">The mon<g ref="char:EOLhyphen"/>day after Tvvelfe-day, ſo called by the Husband<g ref="char:EOLhyphen"/>men in <hi>Nor<g ref="char:EOLhyphen"/>folk,</hi> becauſe on that day, they doe firſt begin to Plough.</note> Monday fall on Monday,</l>
+               <l>Which as I take it, is next day to Sunday;</l>
+               <l>Is it not ſo, what ſay you Maſter
+<note n="*" place="margin">He did aske M. <hi>Roe,</hi> an Alderman of <hi>Yarmouth,</hi> if monday would fall to be monday that yeare.</note> 
+                  <hi>Roe,</hi>
+               </l>
+               <l>As I doe take it, ſure it muſt be ſo.</l>
+               <pb n="7" facs="tcp:105898:5"/>
+               <l>The Tueſday next the Seſſions noth begin</l>
+               <l>At <hi>Norwich,</hi> and the Tueſday next (I win)</l>
+               <l>The Seſſions will be here, ſure it muſt be,</l>
+               <l>Or my account hath much deceived me:</l>
+               <l>There was a jugling Cunning
+<note n="e" place="margin">6. Idiotiſme. To hang a man for an old Alma<g ref="char:EOLhyphen"/>nack being found in his Study.</note> man of fame,</l>
+               <l>A nick-nam'd Conjurer, <hi>Marke Pryme</hi> by name:</l>
+               <l>Whoſe skill was in Aſtrologie ſo great</l>
+               <l>That by that Art he many Folks did cheat.</l>
+               <l>This <hi>Marke</hi> (pray <hi>marke</hi> me now what here I write)</l>
+               <l>Could many <hi>Fiends</hi> and <hi>Planets</hi> names recite,</l>
+               <l>And more ſtrange <hi>Magick</hi> words from him would drop,</l>
+               <l>Then are in an
+<note n="f" place="margin">He would name <hi>Co<g ref="char:EOLhyphen"/>loquintida, Aſſafetita, Zarzaparilla.</hi> 3. Bitter, ſtin<g ref="char:EOLhyphen"/>king, &amp; pocky Divells; be<g ref="char:EOLhyphen"/>ſides <hi>Polipodi. um, Bole Ar<g ref="char:EOLhyphen"/>moniack, <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>guentum Cam. phiratum Al<g ref="char:EOLhyphen"/>bum, Galba<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>um, Auxun<g ref="char:EOLhyphen"/>gia Porcina,</hi> &amp;c.</note> 
+                  <hi>Apothecaries</hi> ſhop,</l>
+               <l>He would (with an impregnible braſſe forehead)</l>
+               <l>Talk of the <hi>Zones,</hi> the <hi>Fridgid,</hi> and the <hi>T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rred,</hi>
+               </l>
+               <l>And from <hi>Parnaſſus Mount,</hi> or <hi>Agannippe,</hi>
+               </l>
+               <l>He ſeem'd t' out doe, <hi>Cornelius</hi> call'd <hi>Agrippe.</hi>
+               </l>
+               <l>'Twas thought this <hi>Marke</hi> knew all the divels in Hell,</l>
+               <l>And fam'd t'erect a figure excellent well:</l>
+               <l>Wherefore the Country Folkes admir'd his Art</l>
+               <l>That if they had loſt Cowe, Calfe, Horſe or Cart,</l>
+               <l>Or ſilver ſpoone, or Bodkin, Knife or Ring,</l>
+               <l>Or Milſtone, Windmill, Corke, or any thing</l>
+               <l>Heavy or
+<note n="g" place="margin">From the ponderous vveight of a Ladies F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n, to the light<g ref="char:EOLhyphen"/>nes of a Sow of Lead.</note> light, 'twas ſtill his happy lot</l>
+               <l>To help the People to their goods, or not.</l>
+               <l>This <hi>Mathematick</hi> man, this cheat <hi>Mark Pryme,</hi>
+               </l>
+               <l>Did gull the People ſtill from time to time</l>
+               <l>So farre, that in Complaints they all agreed</l>
+               <l>To tell <hi>Miles Corbet</hi> all their griefes with ſpeed.</l>
+               <l>He gravely hearing many things alleadg'd</l>
+               <l>Faults mixt with faults, together interwedg'd,</l>
+               <l>So that to Priſon <hi>Pryme</hi> was ſtrait committed</l>
+               <l>At Seſſions next to ſuffer, or b'acquitted,</l>
+               <l>Then the <hi>Recorder</hi> wiſely gave command</l>
+               <l>To ſearch <hi>Prymes</hi> learned ſtudy out of hand,</l>
+               <l>There they found Books ſome <hi>Theologicall,</hi>
+               </l>
+               <l>
+                  <hi>Hiſtoricall,</hi> and <hi>Phyloſophicall.</hi>
+               </l>
+               <pb n="8" facs="tcp:105898:6"/>
+               <l>Amongſt the reſt they chanc'd to finde a Book</l>
+               <l>Call'd <hi>Moulſons Almanack,</hi> which ſtrait they took</l>
+               <l>And ſhewd <hi>Miles Corbet,</hi> who ſaid preſently,</l>
+               <l>
+                  <hi>This is the Book the knave doth conjure by,</hi>
+               </l>
+               <l>This wicked book ſhall help him to a check,</l>
+               <l>That at this Seſſions now will break his neck.</l>
+               <l>O rare <hi>Oedipus</hi> that ſo found out</l>
+               <l>The meaning of the book to cleare the doubt;</l>
+               <l>As fit as any <hi>Mare</hi> is for a Cradle,</l>
+               <l>Or any <hi>Sow</hi> for an Imbrodered Sadle:</l>
+               <l>As ſutable as ſawduſt, and roſt beefe,</l>
+               <l>For <hi>Moulſous Almanack</hi> is but a breefe</l>
+               <l>Of the fam'd fabulous <hi>Sheperds
+<note n="h" place="margin">A Book of merry fortune telling, with the formes of Dice, Starres, &amp;c.</note> Calender;</hi>
+               </l>
+               <l>And for no uſe of any Conjurer.</l>
+               <l>But for all that, <hi>Miles</hi> will by Law or wit,</l>
+               <l>Prove <hi>Prime</hi> to be a Conjurer by it;</l>
+               <l>And though in moſt things he was cleare excus'd</l>
+               <l>Yet when <hi>Miles Corbet</hi> the ſtrange book produc'd</l>
+               <l>And opend it, did ſhew it to the Iury,</l>
+               <l>And ſaid to them, <hi>my Maiſters I aſſure yee,</hi>
+               </l>
+               <l>
+                  <hi>This Book is damnable and dangerous,</hi>
+               </l>
+               <l>
+                  <hi>He hath deſcribed here each Celestiall Houſe;</hi>
+               </l>
+               <l>He names <hi>Albumazer, Copernicus,</hi>
+               </l>
+               <l>
+                  <hi>Rombombonax,</hi> and <hi>Mephoſtophilus,</hi>
+               </l>
+               <l>Here's pictures of the <hi>Bull, Beare, Goat and Lyon,</hi>
+               </l>
+               <l>Here's names of <hi>Lucifer,</hi> and of <hi>Oryon.</hi>
+               </l>
+               <l>And therefore Iury marke your charge this time,</l>
+               <l>Theres in that book enough to hang <hi>Mark Prime.</hi>
+               </l>
+               <l>With that an underſtanding man or
+<note n="i" place="margin">One of them was M. <hi>Tho: Chesſhire</hi> a Divine.</note> twaine,</l>
+               <l>The ſubſtance of the book did ſtrait explaine</l>
+               <l>To be as farre from Maiſter <hi>Corbets</hi> talke</l>
+               <l>As Oatmeale is from egges, or cheeſe from chalk.</l>
+               <l>By that bookes vertue we dare both to ſweare</l>
+               <l>No man can ever be a Conjurer.</l>
+               <l>They therefore praid the jury to conceive</l>
+               <l>The Law cannot a man of life bereave</l>
+               <pb n="9" facs="tcp:105898:6"/>
+               <l>For any thing which that booke doth containe;</l>
+               <l>With that the <hi>Jury</hi> went and came againe</l>
+               <l>And by their Verdict, <hi>Pryme</hi> not guilty found</l>
+               <l>Eſcap'd a <hi>Popham Check,</hi> twixt Sky and Ground.</l>
+               <l>And there the learn'd <hi>Recorder</hi> gain'd much credit</l>
+               <l>As ſome ſaid, if they did not lye that ſaid it.
+<note n="k" place="margin">6. Idiotiſme how M. Cor<g ref="char:EOLhyphen"/>bet, and his man Nocky being both drunk, fell in<g ref="char:EOLhyphen"/>to a ſandhole in Yarmouth Deanes.</note> With neither lyes or fables here I mock ye;</l>
+               <l>
+                  <hi>Miles Corbet</hi> and ſquire, (ſweet <hi>Tony Nockey</hi>)</l>
+               <l>Road like knights errant to make inquiſition</l>
+               <l>And find unlicenc'd <hi>Ale-houſes</hi> condition;</l>
+               <l>Like <hi>Spains</hi> black Knight, <hi>(Don John de fiſty kanco)</hi>
+               </l>
+               <l>Or valiant <hi>Don Quixot, and Sancho Pancho,</hi>
+               </l>
+               <l>Adventerouſly they put their feet in ſtirrops</l>
+               <l>To puniſh Victlers and to taſte their Sirrops.</l>
+               <l>The very Viſage of <hi>Miles</hi> was ſo dreadfull</l>
+               <l>That feare fil'd many an hoſtes heart and headfull;</l>
+               <l>Th' afrighted tiplers for a <hi>Bugg-bear</hi> tooke him;</l>
+               <l>He lookd ſo <hi>g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>im</hi> the divel could not outlook him,</l>
+               <l>The men the women, children, every one,</l>
+               <l>Did fear him like <hi>Raſt-head and bloody bone.</hi>
+               </l>
+               <l>Reader for thy good, mine, or any mans</l>
+               <l>They ſearch'd the meaſure of <hi>Pots, Iuggs and kans,</hi>
+               </l>
+               <l>They took ſurvey of cheating, <hi>Nick and Froth,</hi>
+               </l>
+               <l>Two knaves, that made drink ſhrink like <hi>Northern</hi> cloth</l>
+               <l>They taſted Ale ſo deep, that to conclude</l>
+               <l>Both man and Maiſter were in th' ale-titude;</l>
+               <l>Both in their <hi>Perricranians</hi> elevated</l>
+               <l>Took horſe, and riding home being lightly pated;</l>
+               <l>
+                  <hi>Ambo</hi> their beaſts, their beaſtly riders tumbled,</l>
+               <l>Into a <hi>Sandhole,</hi> as they <hi>ambo</hi> ſtumbled.</l>
+               <l>The Horſes both ran home, and left them there:</l>
+               <l>But when folkes ſaw their riders not appear</l>
+               <l>The fear was great, that both the man and maiſter</l>
+               <l>Had met with knaves, or theives or ſome diſaſter;</l>
+               <l>Then Lanthorns were hung out, and bells were Rung,</l>
+               <l>And ſearch was made, with travell &amp; with tongue.</l>
+               <pb n="10" facs="tcp:105898:7"/>
+               <l>To finde thoſe men (if they were <hi>ſuper</hi> ground)</l>
+               <l>Although they both were better loſt then found,</l>
+               <l>At laſt they well came home, ſound wind and limbe</l>
+               <l>(But in a ſtrange and metamorphos'd trimme)</l>
+               <l>Their hats, their cloakes, their wits both broke and whole</l>
+               <l>Forgot, and left all in the Sandy hole.</l>
+               <l>What ſhall I further in this caſe diſpute,</l>
+               <l>For very joy, the cheerfull Bells were mute,</l>
+               <l>The darkned Lamhorns Candles ſnuffes did ſtink,</l>
+               <l>And in this joy no man their healths did drink.</l>
+               <l>One Maiſter
+<note n="l" place="margin">8. Idiotiſme, The great Bi<g ref="char:EOLhyphen"/>ble brought into the Pul<g ref="char:EOLhyphen"/>pit, ſcanda<g ref="char:EOLhyphen"/>lous.</note> 
+                  <hi>Webbe,</hi> full fourſcore yeare of age</l>
+               <l>At <hi>Baſingstoke</hi> had ſpent his pilgrimage,</l>
+               <l>Was fetch'd unto the Parliamentall Citty,</l>
+               <l>Where <hi>Corbet, Chaire Committee-man</hi> (moſt witty)</l>
+               <l>Tax'd him, that he offenſive Doctrine taught</l>
+               <l>And the great Bible to the Pulpit brought,</l>
+               <l>Which (to the people) was ſo much offenſive</l>
+               <l>Vnedifying, and ſo apprehenſive,</l>
+               <l>That (to his audience) it was found <hi>(Probatum)</hi>
+               </l>
+               <l>To be a crime ycleap'd, <hi>Scandalam Datum.</hi>
+               </l>
+               <l>
+                  <hi>Webbe</hi> anſwered, Sir, pray underſtand, and ſee,</l>
+               <l>That <hi>Scandalum
+<note n="m" place="margin">
+                        <hi>Corbet</hi> told the old man, Sir, we have nothing to doe with your <hi>Scandalum Datums,</hi> and <hi>Scandalum Acceptums</hi> here, for we ſay here, that that is an of<g ref="char:EOLhyphen"/>fence at which the People are offe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ded.</note> Acc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ptum</hi> it may be,</l>
+               <l>It may be ſcandall taken, though none given,</l>
+               <l>And I to ſuch an Exigent am driven,</l>
+               <l>That having li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d ſo long, (I pray you marke)</l>
+               <l>And that with extreme age my fight is darke;</l>
+               <l>My Clarke brings the great Bible, and not I,</l>
+               <l>Becauſe the print is big, when I apply</l>
+               <l>Or quote a Scripture, becauſe Folke ſhould heed it,</l>
+               <l>I in the great print can the plainer read it.</l>
+               <l>Thus did the old man pleade; and pleade in vaine,</l>
+               <l>He muſt no more his Benefice retaine;</l>
+               <l>Theſe words of his, no fat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s faction giving,</l>
+               <l>Was Voted by <hi>Miles Corbet</hi> from his Living.</l>
+               <l>Another
+<note n="n" place="margin">9. Idiotiſme. Want of teeth ſcandalous.</note> Miniſter in <hi>Let<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſterſhire,</hi>
+               </l>
+               <l>Liv'd in his Pariſh five and fifty yeares</l>
+               <pb n="11" facs="tcp:105898:7"/>
+               <l>Twice every Sunday he did preach and pray,</l>
+               <l>And none his life or Doctrine could gainſay;</l>
+               <l>At laſt (with extreame age) his T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeth were ſhed,</l>
+               <l>That few o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> none were left within his head,</l>
+               <l>And want of teeth his ſpeech did ſo impaire,</l>
+               <l>That the Complaint was brought before the Chaire</l>
+               <l>Where Mighty <hi>Miles</hi> did tell the old man plainly</l>
+               <l>That in his preaching all his talke was vainly,</l>
+               <l>Becauſe his tounge lifp'd hollow inwardly,</l>
+               <l>Whereby the people could not Edify.</l>
+               <l>The old man anſwer'd, he had preach'd ſo long</l>
+               <l>That he had almoſt preach'd out teeth and tongue,</l>
+               <l>Yet (for all that) he would his Function follow</l>
+               <l>And pray and preach, although his Voyce were hallow;</l>
+               <l>Then ſtout Sir <hi>Thomas Barrington</hi> did ſay,</l>
+               <l>In this Emergent Cauſe ſpend not the day:</l>
+               <l>I would have this grave man be rul'd by me,</l>
+               <l>And to devide his Benefice agree;</l>
+               <l>You ſhall have halfe (old man) and take no paine,</l>
+               <l>The other ſhall an abler man maintaine;</l>
+               <l>You ſhall doe nothing, and have halfe your ſtore,</l>
+               <l>The other ſhall doe all, for as much more.</l>
+               <l>To which wiſe ſpeech, the Reverend Paſtor ſed,</l>
+               <l>
+                  <hi>I'le put my Clothes off, when I goe to Bed,</hi>
+               </l>
+               <l>My Benefice and I, yeares halte a hundred</l>
+               <l>And five, have been conjoyn'd, ſhould not be ſundred,</l>
+               <l>'Twas unto me, my Portion and my Lot,</l>
+               <l>By <hi>Simonaick</hi> meanes I had it not;</l>
+               <l>I've preach'd in ſeaſon oft, and out of ſeaſon,</l>
+               <l>And to deprive me now, there's little reaſon:</l>
+               <l>I have preached long, and hope to preach agen.</l>
+               <l>T' be underſtood, by underſtanding men.</l>
+               <l>Not <hi>Amſterdam,</hi> or <hi>Edinburgh,</hi> or <hi>Leeth,</hi>
+               </l>
+               <l>E're puniſh'd Preacher for his want of Teeth,</l>
+               <l>My heart and tongue are both upright, I know,</l>
+               <l>And with them both my diligence I'le ſhow,</l>
+               <pb n="12" facs="tcp:105898:8"/>
+               <l>My Living is my my Life, and I'le apply</l>
+               <l>To live in't (as I have done) 'till I dye.</l>
+               <l>Then moſt ſententiouſly wiſe <hi>Corbet</hi> ſpake,</l>
+               <l>And will'd the Parſon his advice to take,</l>
+               <l>And doe as wiſe Sir <hi>Thomas Barrington</hi>
+               </l>
+               <l>Had Councell'd him, all further ſtrife to ſhun.</l>
+               <l>The old man anſwer'd, 'twas not avarice</l>
+               <l>Or any thing that Mizers, held in price,</l>
+               <l>But if he ſhould make ſuch a Reſignation,</l>
+               <l>It would o'pe wide the gates of Innovation,</l>
+               <l>And any Preacher, ſo might be ejected</l>
+               <l>By fooles, if they his Doctrine diſaffected,</l>
+               <l>I'le keep my Parſ'nage <hi>(Sans)</hi> deſire of pelfe,</l>
+               <l>And though I'm old, I'le cut my Bread my ſelfe.</l>
+               <l>The <hi>Chair-man</hi> could no hanſome anſwer utter,</l>
+               <l>Yet he with his aſſociates, whiſpering mutter:</l>
+               <l>Some things the old mans faults t' exaggerate,</l>
+               <l>(For why his wit they all did ſtagger at)</l>
+               <l>Which made the Parſon into paſſion fall,</l>
+               <l>And ſaid, I am much older then you all,</l>
+               <l>I'm wiſer ſure then ſome of you are here,</l>
+               <l>And as for honeſty, I'le mak't appeare</l>
+               <l>In that point, all of you I doe defye,</l>
+               <l>And he doth lye, that dares to ſay I lye.</l>
+               <l>One Doctor
+<note n="o" place="margin">10. Idiotiſ. Scandalous to ſay <hi>Veniall</hi> &amp; <hi>Mortall ſins,</hi> but neither ſcandalous or Popiſh, to ſay <hi>Veniall</hi> and <hi>Damnable.</hi>
+                  </note> 
+                  <hi>
+                     <g ref="char:V">Ʋ</g>tey,</hi> (a man grave and learn'd)</l>
+               <l>Who well diſtnctions (Controverſe) deſcern'd,</l>
+               <l>Was tax'd before <hi>Miles Corbet,</hi> and his Meny all,</l>
+               <l>For making ods 'twixt <hi>Mortall ſinnes</hi> and <hi>Venyall:</hi>
+               </l>
+               <l>The <hi>Black Recorder</hi> did demand ſtrait way</l>
+               <l>What (in this Caſe) the witneſſes could ſay,</l>
+               <l>For <hi>
+                     <g ref="char:V">Ʋ</g>tey's</hi> tax'd, that he would often ſtrike</l>
+               <l>Vpon diſtinctions <hi>Romiſh Catholike;</hi>
+               </l>
+               <l>One ſaid <hi>Sinnes Damnable,</hi> he ſaid, I wot</l>
+               <l>
+                  <hi>Sinnes Veniall,</hi> and <hi>Sinnes Mortall</hi> he ſaid not:</l>
+               <l>A ſecond man the firſt mans words averr'd,</l>
+               <l>Why then (quoth <hi>Corbet</hi>) thus the Caſe is clear'd,</l>
+               <pb n="13" facs="tcp:105898:8"/>
+               <l>If <hi>
+                     <g ref="char:V">Ʋ</g>tey</hi> had ſaid <hi>Veniall ſinnes</hi> and <hi>Mortall,</hi>
+               </l>
+               <l>He then had opened wide the <hi>Popiſh Portall:</hi>
+               </l>
+               <l>But ſince both <hi>Damnable</hi> and <hi>Veniall</hi> were</l>
+               <l>His words; from <hi>Popiſh Doctrine</hi> he is cleare.</l>
+               <l>When
+<note n="p" place="margin">11. Idiotiſ. M. <hi>Corbet</hi> and his Brethren ignorant of their Creed.</note> this laſt
+<note n="q" place="margin">
+                     <hi>Draco</hi> was a Lawmaker of <hi>Athens,</hi> reported to have written his Lawes in Bloud.</note> 
+                  <hi>Draco</hi> Parliament began,</l>
+               <l>Began the fall of every honeſt man:</l>
+               <l>All Lawes of God and Man were diſanull'd,</l>
+               <l>The People (from their States) rack'd, pull'd, and gull'd,</l>
+               <l>They (from the King) did take no more, but <hi>ALL.</hi>
+               </l>
+               <l>Their <hi>Rapine</hi> was ſo Epidemicall.</l>
+               <l>The <hi>Proteſtant Religion</hi> was their plea,</l>
+               <l>And how to drowne, and ſinke the <hi>Popall Sea;</hi>
+               </l>
+               <l>Whilſt <hi>Proteſtantiſme</hi> is extinct Confounded,</l>
+               <l>By <hi>Browniſme, Anabaptiſme,</hi> and the <hi>Round-head,</hi>
+               </l>
+               <l>And <hi>Romes</hi> great Sea by them is juſtifide,</l>
+               <l>In their accurſt attempting <hi>Regicide.</hi>
+               </l>
+               <l>
+                  <hi>London</hi> our <hi>Englands</hi> great Metropolis,</l>
+               <l>Seem'd to be griev'd with ſome Monopolies;</l>
+               <l>That City e'rſt for their <hi>Allegiance</hi> fam'd,</l>
+               <l>For <hi>Diſallegiance</hi> through the whole world ſham'd;</l>
+               <l>They griev'd for <hi>Shipmonyes,</hi> and petty things,</l>
+               <l>The <hi>Right Prerogatives</hi> of former Kings,</l>
+               <l>They grieved much, and grumbled at all theſe,</l>
+               <l>And then (like Fooles) to ſeek amiſſe for eaſe;</l>
+               <l>The Kings <hi>Prerogative</hi> was lighter farre,</l>
+               <l>Then halfe their <hi>Taxes in Rebellious Warre.</hi>
+               </l>
+               <l>For they by <hi>Orders, Ordinance,</hi> and <hi>Votes,</hi>
+               </l>
+               <l>T' have ſtrip'd the People even from their Coats;</l>
+               <l>In this beginning, young, old, more and leſſe,</l>
+               <l>Made Vniverſall
+<note n="r" place="margin">They cryed out, as the <hi>Iewes</hi> did, when they ſaid, <hi>His Bloud be upon us, and our Children;</hi> So theſe men whom they cryed up, hath been the ſhed<g ref="char:EOLhyphen"/>ders of their Blouds, with their Chil<g ref="char:EOLhyphen"/>drens.</note> Noiſe for <hi>Burgeſſes:</hi>
+               </l>
+               <l>Amongſt the reſt, a ſwarme of <hi>Sectaries</hi>
+               </l>
+               <l>At <hi>Yarmouth, Corbet, Corbet, Corbet,</hi> Cryes,</l>
+               <l>Who ſtrait to <hi>Weſtminſter,</hi> did make Repaire,</l>
+               <l>And there, Inthroan'd in the <hi>Committee Chaire.</hi>
+               </l>
+               <l>Then preſently to <hi>Yarmouth</hi> he ſent downe,</l>
+               <l>That what agrievances were in the Towne,</l>
+               <pb n="14" facs="tcp:105898:9"/>
+               <l>He will'd 'em that to him they ſhould expreſſe it,</l>
+               <l>And he would take an order to redreſſe it.</l>
+               <l>Some <hi>Aldermen,</hi> ſome <hi>Common-Councell</hi> men,</l>
+               <l>(In number twelve) ſate in Committee then,</l>
+               <l>
+                  <hi>John
+<note n="ſ" place="margin">A Woollen Draper.</note> Carter</hi> (Alderman) was chiefe that ſate,</l>
+               <l>Who ſaid he one great grievance would relate:</l>
+               <l>Which was their Miniſter did uſe to pray</l>
+               <l>Before his Sermon, and in praying ſay,</l>
+               <l>Let us praiſe God for Sainte that lived <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere</l>
+               <l>In Gods feare, and Eternall Glory, where</l>
+               <l>They doe enjoy th' unſpeakable fruition</l>
+               <l>Of the Almighties preſence, whoſe Condition</l>
+               <l>Is now in everlaſting glorious ſtate</l>
+               <l>As we ſhall be, if them we imitate.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Digreſsion.</head>
+            <lg>
+               <l>
+                  <hi>And now good Readers, pardon my Digreſſion,</hi>
+               </l>
+               <l>
+                  <hi>'Tis farre beyond the grounds of my Profeſſion</hi>
+               </l>
+               <l>
+                  <hi>To touch, or write of high Myſterious things,</hi>
+               </l>
+               <l>
+                  <hi>Or th' Incarnation of the King of Kings.</hi>
+               </l>
+               <l>
+                  <hi>But ſeeing <g ref="char:V">Ʋ</g>nbeleevers not Confide</hi>
+               </l>
+               <l>
+                  <hi>In him that for our ſinnes was Crucifide,</hi>
+               </l>
+               <l>
+                  <hi>He that for us dranke dry Gods wrathfull Cup,</hi>
+               </l>
+               <l>
+                  <hi>He that laid downe his Life, and tooke it up,</hi>
+               </l>
+               <l>
+                  <hi>He that did ſatisfie the Doome divine</hi>
+               </l>
+               <l>
+                  <hi>For all beleeving Soules, and ſo for mine.</hi>
+               </l>
+               <l>
+                  <hi>Shall I heare, that accurſed Bla<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>phomie</hi>
+               </l>
+               <l>
+                  <hi>Is countenanc'd (againſt his Deitie)</hi>
+               </l>
+               <l>
+                  <hi>By Parliament</hi> Apoſtates, <hi>ſhall I then</hi>
+               </l>
+               <l>
+                  <hi>Neglect to tell'em on't with Tongue and Pen;</hi>
+               </l>
+               <l>
+                  <hi>He that knowes</hi> Ieſus Chriſt <hi>ſo much abus'd,</hi>
+               </l>
+               <l>
+                  <hi>And ſuffers it, ſhall not by him b' exons'd.</hi>
+               </l>
+               <l>
+                  <hi>And Readers, I your pardons Crave againe,</hi>
+               </l>
+               <l>
+                  <hi>'Twas not the Raptures of an Idle Braine,</hi>
+               </l>
+               <pb n="15" facs="tcp:105898:9"/>
+               <l>
+                  <hi>Truth, only Truth, did the whole Truth I'le write.</hi>
+               </l>
+               <l>
+                  <hi>So help me God, as followeth Precite.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The grand
+<note n="t" place="margin">at <hi>Yarmouth.</hi>
+                  </note> Committee whether cloa'kd or gound</l>
+               <l>Sate at a Boord, but whether ſquare or Round</l>
+               <l>I know not well, but words and ſpeeches paſt</l>
+               <l>Againſt the preacher, till they ſaid at laſt</l>
+               <l>They heard him ſay, <hi>the bleſt Saint Mary, ſhee</hi>
+               </l>
+               <l>
+                  <hi>The holy Virgine, mother of God to be,</hi>
+               </l>
+               <l>To which they all conclude, they did not know,</l>
+               <l>Whether ſhe were the Mother of God or no;</l>
+               <l>And in their wiſedomes, circumſtances weighing,</l>
+               <l>They ſaid, <hi>it was a greivance in ſo ſaying.</hi>
+               </l>
+               <l>
+                  <hi>If ſhe were not, tis Blasphemy truly,</hi>
+               </l>
+               <l>
+                  <hi>And for Blaspheming ſo, and Blasphe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y</hi>
+               </l>
+               <l>
+                  <hi>'Tis fit, that preſently we ſhould preſent</hi>
+               </l>
+               <l>
+                  <hi>Complaint of it unto the Parliament.</hi>
+               </l>
+               <l>Some of the Brethren in this zealous puther</l>
+               <l>Said, <hi>Peradventure ſhe might be Gods Mother,</hi>
+               </l>
+               <l>
+                  <hi>Or elſe their miniſter whoſe Doctrine ever</hi>
+               </l>
+               <l>
+                  <hi>None ever could disprove, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ad ſaid ſo never,</hi>
+               </l>
+               <l>All diſagreeing 'mongſt themſelves agreed,</l>
+               <l>By Votes, and Bullets with impartiall ſpeed;</l>
+               <l>With that thoſe impure ſanctified Zelots</l>
+               <l>Did into two bagges, drop their holy pelots<g ref="char:punc">▪</g>
+               </l>
+               <l>And which bagge there the moſt of bullets got,</l>
+               <l>Caus'd her be ſtil'de the mother of God or not:</l>
+               <l>And by one bullet which <hi>John Carter</hi> laſt,</l>
+               <l>Put in one bagge, the Virgines Cauſe was caſt.</l>
+               <l>Was ever knowne ſuch Irreligious ſots,</l>
+               <l>They might as well have drawne cuts, or caſt lots,</l>
+               <l>Or plaid at croſſe and pile, or handy dandy,</l>
+               <l>Such fooleries had been <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to bandy</l>
+               <l>As bullets, though too many bandied are</l>
+               <l>With as much ſence in this Rebellious Warre.</l>
+               <l>For underſtand good reader as you read,</l>
+               <l>Theſe poore Committee men knew not their <hi>Creed,</hi>
+               </l>
+               <pb n="16" facs="tcp:105898:10"/>
+               <l>They have deny'd the Chriſtian Faith like <hi>Jewes,</hi>
+               </l>
+               <l>And for Religion they may yet go chuſe;</l>
+               <l>For our beleife moſt plainly doth declare,</l>
+               <l>That ſhee, <hi>in her bleſt wombe God's Son did beare,</hi>
+               </l>
+               <l>And he was God, (as bleſſed <hi>Eſaye</hi> ſaith)</l>
+               <l>Which is a fundamentall poynt of Faith;</l>
+               <l>
+                  <hi>God is the Word, he and the word are one,</hi>
+               </l>
+               <l>
+                  <hi>The word was God, being God's Eternall Sonne;</hi>
+               </l>
+               <l>
+                  <hi>The Word was made <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, and that word I know,</hi>
+               </l>
+               <l>
+                  <hi>Was, and is Jeſus,</hi> let who dares ſay no;</l>
+               <l>
+                  <hi>That Jeſus was the Virgines Sonne, and ſhe,</hi>
+               </l>
+               <l>
+                  <hi>Of Jeſus (God and Man) muſt Mother be.</hi>
+               </l>
+               <l>You fond <hi>Yarmonthians,</hi> what ſay you to this?</l>
+               <l>How can you hope for everlaſting bliſſe?</l>
+               <l>That in your wandring fancies ſo do vary</l>
+               <l>As to doubt <hi>Jeſus for the Sonne of Mary,</hi>
+               </l>
+               <l>For ſuch as dare ſay, <hi>Jeſus</hi> is not God,</l>
+               <l>Through want of Faith, ſhall down to hell betrod.</l>
+               <l>Thus did the dullbraind doating, ſaithleſſe dunces</l>
+               <l>By th' <hi>Atheiſt</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of their leaden Soonces,</l>
+               <l>With one poore ſenctific <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, they caſt down</l>
+               <l>The honour which God gave her, and Renowne</l>
+               <l>Which is her due<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this my Religion is,</l>
+               <l>And yet I am not apiſt for all this,</l>
+               <l>Her honour I no <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot extenuate,</l>
+               <l>Though I to her th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'re pray or Invocate;</l>
+               <l>Baſe are thoſe ſade<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>naves, that down dares tread</l>
+               <l>His Mother, <hi>who is Judge of Quick and Dead,</hi>
+               </l>
+               <l>He that will judge ſuch misbeleiving fellowes</l>
+               <l>Vnto the divell, who blowes Rebellions bellows.</l>
+               <l>But leaving theſe things, (ſerious and myſterious)</l>
+               <l>Let's talke of Parliamentall things Imperious,</l>
+               <l>The buſineſſe did bring up the Miniſter</l>
+               <l>Before great <hi>Corbets</hi> throne at <hi>Weſtminſter,</hi>
+               </l>
+               <l>Who gave th'accuſers thanks, and ſaid that he</l>
+               <l>Vnto their Godly indgements did agree.</l>
+               <pb n="17" facs="tcp:105898:10"/>
+               <l>And preſently a Warrant was diſpatch'd,</l>
+               <l>By vertue on't the Miniſter attach'd:</l>
+               <l>Which Warrant was obſcequiouſly obſerv'd,</l>
+               <l>And in the very <hi>Chancell</hi> it was ſerv'd.</l>
+               <l>(For in ſuch Zeale, <hi>Mil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Corbe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> will not falter,</l>
+               <l>His hornes dares gore, even at the hornes of th' <hi>Altery</hi>
+               </l>
+               <l>The Miniſter obay'd, and ſtrait Rode up</l>
+               <l>To <hi>Weſtminſter,</hi> to taſte afflictions Cup,</l>
+               <l>Whereof they forc'd him drink a draught ſo great,</l>
+               <l>That he is ſince depriv'd of drink and meat,</l>
+               <l>Of Houſe and Benefice, Goods, Children, Wife,</l>
+               <l>Or any thing, that may maintaine a Life:</l>
+               <l>But that Gods Mercies over all his Workes,</l>
+               <l>Whereby he lives, in ſpight of <hi>Jewes or Turkes.</hi>
+               </l>
+               <l>And when at <hi>Weſtminſter</hi> he did appeare,</l>
+               <l>Where the <hi>Recorder</hi> ſate, in's <hi>Supreame Chaire;</hi>
+               </l>
+               <l>There Maiſter <hi>Gordon</hi> (Councellour at Law)</l>
+               <l>Said ſuch a great Blaſphemer he ne're ſaw</l>
+               <l>Of heard of, and with quaking, ſhaking, ſhivering,</l>
+               <l>He read the <hi>Article,</hi> with dreadfull quivering,</l>
+               <l>At which the whole <hi>Committee</hi> were ama<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d,</l>
+               <l>And (terror ſtrook) on one another gaz'd,</l>
+               <l>There ſate <hi>Miles Corbet,</hi> there ſate all his writ,</l>
+               <l>Sir <hi>Gilbert Pickering,</hi> next to him did ſir,</l>
+               <l>And <hi>Lowrey,</hi> a grave <hi>Cambridge</hi> Fiſhmonger,</l>
+               <l>(A Burgeſſe, and a learn'd Coſmographer:)</l>
+               <l>There ſate Religions pure and ſhining Su<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>The moſt devout and zealous <hi>Penington;</hi>
+               </l>
+               <l>One <hi>Wheeler,</hi> of the firſt Fruits office, and</l>
+               <l>Others, who (like the reſt) did underſtand,</l>
+               <l>Who all ſaid, 'twas a Blaſphemy abhorr'd,</l>
+               <l>To call Bleſt <hi>Mary,</hi> Mother of God, our Lord.</l>
+               <l>And one unto the Miniſter ſaid thus,</l>
+               <l>I will you
+<note n="u" place="margin">The <hi>Arti<g ref="char:EOLhyphen"/>cle</hi> was read, and the Mini<g ref="char:EOLhyphen"/>ſter ſaid, I do confeſſe this Article, <hi>Ter<g ref="char:EOLhyphen"/>minis Ter<g ref="char:EOLhyphen"/>minantibus,</hi> where one of the Commit<g ref="char:EOLhyphen"/>tee ſaid, Sir, I will <hi>Terminis Terminanti<g ref="char:EOLhyphen"/>bus</hi> you.</note> 
+                  <hi>Terminis Terminantibus:</hi>
+               </l>
+               <l>Then <hi>Iſaack Penington</hi> ſaid to him, Sir,</l>
+               <l>You ſtand not here Sir, as a Miniſter;</l>
+               <pb n="18" facs="tcp:105898:11"/>
+               <l>Who to his worſhips <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> did reply,</l>
+               <l>That in that <hi>Article</hi> he'd Liv<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Dye,</l>
+               <l>And whatſoever they <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ake,</l>
+               <l>To juſtifie it, on himſelfe he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>And ſome
+<note n="x" place="margin">D. <hi>Haſſall,</hi> Deane of <hi>Norwich,</hi> and others.</note> 
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> were there, who duly ſaid,</l>
+               <l>Gods Son, was God, Son of the Bleſſed Maid.</l>
+               <l>Then Maſter <hi>Corbet</hi> ſome <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> words did ſca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter,</l>
+               <l>That they would take <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of that matter:</l>
+               <l>And then reply <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</l>
+               <l>That in no Author <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</l>
+               <l>Which did <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Arikle,</hi> wherefore</l>
+               <l>At this time wee'le diſpute that poy<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>To whom the Miniſter did <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</l>
+               <l>Sir, if you pleaſe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</l>
+               <l>To read grave <hi>Cleave<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</l>
+               <l>They both <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Virgin Mother of God.</l>
+               <l>Now may ſeduced People <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſee,</l>
+               <l>Of what faith their <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Miniſters</hi> be;</l>
+               <l>Now may they ſee in wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Cauſe,</hi> they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>And hazard to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</l>
+               <l>Men of a Faith that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</l>
+               <l>Deny'ng th' Vnion <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</l>
+               <l>Theſe are the <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> whom poore Fools d'obay,</l>
+               <l>And in their Service foole their Goods away,</l>
+               <l>Their Loyalties, their Lives, they <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Who are to God <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and Kingdomes Foes:</l>
+               <l>They have Rob'd God, of Glory, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the King,</l>
+               <l>From him they would his Crowne and Kingdomes wring;</l>
+               <l>This have mad People <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> perſiſt</l>
+               <l>To kill, and to be kill'd for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+               <l>Good God their darkned <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</l>
+               <l>That they may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Eſtate,</l>
+               <l>Whereby this Curſt Rebellion may deceaſe,</l>
+               <l>And haples <hi>England,</hi> gaine a happy Peace.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
